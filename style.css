@@ -1,0 +1,9 @@
+h1{
+    text-align: center;font-family: 'Courier New', Courier, monospace;text-decoration: underline; 
+    text-shadow: 6px 2px 7px blue;font-size: 40px;
+}
+#heading{text-align: center; font-family: 'Courier New', Courier, monospace; text-decoration: underline;letter-spacing: 1px;  }
+#menu{text-align: center; text-decoration: underline;letter-spacing: 2px;font-family: 'Courier New', Courier, monospace;}
+p{text-align: center; text-decoration: underline;letter-spacing: 2px; font-family: 'Courier New', Courier, monospace;}
+#b{list-style-type: circle;}
+#x{color: white;}
